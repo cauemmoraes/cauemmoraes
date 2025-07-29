@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
  :books: Beginner software developer, passionate about technology and developing innovative solutions. 
  
- :computer: Experience in personal projects using HTML, CSS, Python and learning other languages such as JavaScript, and always seeking to learn and grow in the area.
+ :computer: Experience in personal projects using HTML, CSS, Python and learning other languages such as JavaScript, SQL and always seeking to learn and grow in the area.
  
  :rocket: Looking for a opportunity to apply and expand my skills in a dynamic development team
