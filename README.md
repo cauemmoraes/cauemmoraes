@@ -70,7 +70,7 @@ Me chamo Cauê Matos Moraes, tenho 25 anos e sou de Cuiabá-MT. Atualmente estou
 <br>
 <br>
 
-### 📱 Estatisticas
+### 📱 Estatísticas
 
  <img 
     align="left"
